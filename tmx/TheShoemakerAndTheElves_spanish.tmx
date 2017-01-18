@@ -1,0 +1,1566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.1">
+<header segtype="sentence" o-tmf="Bitext2tmx" adminlang="en" srclang="en" datatype="PlainText"  o-encoding="UTF-8">
+<meta name="title" source="The Shoemaker and the Elves" target="El Zapatero y los Duendes">
+<meta name="language" source="English" target="Spanish">
+<meta name="level" content="1">
+<meta name="category" source="Fairy Tales" target="Cuentos de Hadas">
+<meta name="description" 
+source="The classic story of a poor shoemaker who gets some unexpected help from a mysterious source." 
+target="La clásica historia de un pobre zapatero que recibe ayuda inesperada de un origen misterioso.">
+</header>
+<body>
+<tu tuid="0" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>Once upon a time, there was</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Érase una vez, había</seg>
+  </tuv>
+</tu>
+<tu tuid="1" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>a shoemaker,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un zapatero,</seg>
+  </tuv>
+</tu>
+<tu tuid="2" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>who,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>quien,</seg>
+  </tuv>
+</tu>
+<tu tuid="3" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>through no fault of his own,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y no fue culpa suya,</seg>
+  </tuv>
+</tu>
+<tu tuid="4" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>became so poor</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>se encontraba tan pobre</seg>
+  </tuv>
+</tu>
+<tu tuid="5" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>that at last he had nothing left</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que por fin no le quedaba nada,</seg>
+  </tuv>
+</tu>
+<tu tuid="6" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>but just enough leather</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>sólo le quedaba el cuero</seg>
+  </tuv>
+</tu>
+<tu tuid="7" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>to make</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para hacer</seg>
+  </tuv>
+</tu>
+<tu tuid="8" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>one pair of shoes.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un par de zapatos.</seg>
+  </tuv>
+</tu>
+<tu tuid="9" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>He cut out</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Él cortó</seg>
+  </tuv>
+</tu>
+<tu tuid="10" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the shoes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los zapatos</seg>
+  </tuv>
+</tu>
+<tu tuid="11" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>at night,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por la noche,</seg>
+  </tuv>
+</tu>
+<tu tuid="12" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>so as to set to work upon them</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para que podía empezar a trabajar en ellos</seg>
+  </tuv>
+</tu>
+<tu tuid="13" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the next morning;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la próxima mañana;</seg>
+  </tuv>
+</tu>
+<tu tuid="14" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and as he had</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y como tenía</seg>
+  </tuv>
+</tu>
+<tu tuid="15" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>a good conscience,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una consciencia buena,</seg>
+  </tuv>
+</tu>
+<tu tuid="16" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>he laid himself quietly down</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>se acostó tranquilamente</seg>
+  </tuv>
+</tu>
+<tu tuid="17" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>in his bed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en su cama,</seg>
+  </tuv>
+</tu>
+<tu tuid="18" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>committed himself</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>rezó</seg>
+  </tuv>
+</tu>
+<tu tuid="19" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>to heaven,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>al cielo,</seg>
+  </tuv>
+</tu>
+<tu tuid="20" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and fell asleep.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se durmió.</seg>
+  </tuv>
+</tu>
+<tu tuid="21" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>In the morning,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Por la mañana,</seg>
+  </tuv>
+</tu>
+<tu tuid="22" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>after he had said his prayers,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>después de rezar,</seg>
+  </tuv>
+</tu>
+<tu tuid="23" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and was going to get to work,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>iba a trabajar,</seg>
+  </tuv>
+</tu>
+<tu tuid="24" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>he found</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y encontró</seg>
+  </tuv>
+</tu>
+<tu tuid="25" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the pair of shoes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el par de zapatos</seg>
+  </tuv>
+</tu>
+<tu tuid="26" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>made and finished,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>hecho y terminado,</seg>
+  </tuv>
+</tu>
+<tu tuid="27" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and standing</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y estaban</seg>
+  </tuv>
+</tu>
+<tu tuid="28" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>on the table.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en la mesa.</seg>
+  </tuv>
+</tu>
+<tu tuid="29" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>He was very much astonished,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Estaba muy asombrado,</seg>
+  </tuv>
+</tu>
+<tu tuid="30" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and could not tell what to think,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y no sabía lo que debía pensar,</seg>
+  </tuv>
+</tu>
+<tu tuid="31" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and he took</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y tomó</seg>
+  </tuv>
+</tu>
+<tu tuid="32" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the shoes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los zapatos</seg>
+  </tuv>
+</tu>
+<tu tuid="33" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>in his hand</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en su mano</seg>
+  </tuv>
+</tu>
+<tu tuid="34" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>to examine them</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para examinarlos</seg>
+  </tuv>
+</tu>
+<tu tuid="35" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>more closely;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>más atentamente;</seg>
+  </tuv>
+</tu>
+<tu tuid="36" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and they were so well made</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y eran tan bien hechos</seg>
+  </tuv>
+</tu>
+<tu tuid="37" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>that every stitch</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que cada puntada</seg>
+  </tuv>
+</tu>
+<tu tuid="38" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>was in its right place,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>estaba en su lugar,</seg>
+  </tuv>
+</tu>
+<tu tuid="39" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>just as if they had come</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>como si hubieran venido</seg>
+  </tuv>
+</tu>
+<tu tuid="40" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>from the hand</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>del mano</seg>
+  </tuv>
+</tu>
+<tu tuid="41" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>of a master shoemaker.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>de un maestro zapatero.</seg>
+  </tuv>
+</tu>
+<tu tuid="42" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="43" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>Soon after</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Poco después,</seg>
+  </tuv>
+</tu>
+<tu tuid="44" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>a customer entered,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>entró un comprador,</seg>
+  </tuv>
+</tu>
+<tu tuid="45" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and since the shoes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y ya que los zapatos</seg>
+  </tuv>
+</tu>
+<tu tuid="46" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>fit him very well,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>le quedaban muy bien,</seg>
+  </tuv>
+</tu>
+<tu tuid="47" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>he gave more than</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dio más que</seg>
+  </tuv>
+</tu>
+<tu tuid="48" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the usual price</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el precio normal</seg>
+  </tuv>
+</tu>
+<tu tuid="49" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>for them,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por ellos,</seg>
+  </tuv>
+</tu>
+<tu tuid="50" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>so that el shoemaker</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>así que el zapatero</seg>
+  </tuv>
+</tu>
+<tu tuid="51" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>had enough money</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>tuvo el dinero</seg>
+  </tuv>
+</tu>
+<tu tuid="52" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>to buy</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para comprar</seg>
+  </tuv>
+</tu>
+<tu tuid="53" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>leather</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el cuero</seg>
+  </tuv>
+</tu>
+<tu tuid="54" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>for two more</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para hacer dos más</seg>
+  </tuv>
+</tu>
+<tu tuid="55" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>pairs of shoes.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pares de zapatos.</seg>
+  </tuv>
+</tu>
+<tu tuid="56" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>He cut them out</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Él los cortó</seg>
+  </tuv>
+</tu>
+<tu tuid="57" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>at night,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>esa noche,</seg>
+  </tuv>
+</tu>
+<tu tuid="58" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and intended to set to work</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y tuvo la intención de trabajar</seg>
+  </tuv>
+</tu>
+<tu tuid="59" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the next morning</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la próxima mañana</seg>
+  </tuv>
+</tu>
+<tu tuid="60" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>with fresh spirit;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con un espíritu fresco;</seg>
+  </tuv>
+</tu>
+<tu tuid="61" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>but that was not to be,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pero eso no sucedería,</seg>
+  </tuv>
+</tu>
+<tu tuid="62" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>for when</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>porque cuando</seg>
+  </tuv>
+</tu>
+<tu tuid="63" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>he got up</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>se despertó</seg>
+  </tuv>
+</tu>
+<tu tuid="64" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the shoes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los zapatos</seg>
+  </tuv>
+</tu>
+<tu tuid="65" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>were already finished,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>ya eran terminados,</seg>
+  </tuv>
+</tu>
+<tu tuid="66" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and soon</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y pronto</seg>
+  </tuv>
+</tu>
+<tu tuid="67" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>he had a customer,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>tuvo a otro cliente,</seg>
+  </tuv>
+</tu>
+<tu tuid="68" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>who gave him so much money</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>quien le dio tanto dinero</seg>
+  </tuv>
+</tu>
+<tu tuid="69" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>that he was able to buy</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que podía comprar</seg>
+  </tuv>
+</tu>
+<tu tuid="70" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>leather enough for</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el cuero para hacer</seg>
+  </tuv>
+</tu>
+<tu tuid="71" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>four new pairs of shoes.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>cuatro pares nuevos de zapatos.</seg>
+  </tuv>
+</tu>
+<tu tuid="72" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Early next morning</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Temprano en la próxima mañana</seg>
+  </tuv>
+</tu>
+<tu tuid="73" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>he found</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>encontró que</seg>
+  </tuv>
+</tu>
+<tu tuid="74" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the four pairs of shoes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los cuatro pares de zapatos</seg>
+  </tuv>
+</tu>
+<tu tuid="75" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>also finished,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>también estaban terminados,</seg>
+  </tuv>
+</tu>
+<tu tuid="76" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and so it always happened;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y entonces eso siempre pasaba;</seg>
+  </tuv>
+</tu>
+<tu tuid="77" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>whatever leather</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>cualquier cuero</seg>
+  </tuv>
+</tu>
+<tu tuid="78" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>he cut out</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que cortó</seg>
+  </tuv>
+</tu>
+<tu tuid="79" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>in the evening</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por la noche</seg>
+  </tuv>
+</tu>
+<tu tuid="80" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>was worked up</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>era terminado</seg>
+  </tuv>
+</tu>
+<tu tuid="81" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>by the morning,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>antes de la mañana,</seg>
+  </tuv>
+</tu>
+<tu tuid="82" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>so that he was soon making a good living,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y así estaba ganando la vida,</seg>
+  </tuv>
+</tu>
+<tu tuid="83" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and in the end</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y al fin</seg>
+  </tuv>
+</tu>
+<tu tuid="84" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>became very well to do.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>se hizo muy rico.</seg>
+  </tuv>
+</tu>
+<tu tuid="85" datatype="Text">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="86" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>One night,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Una noche,</seg>
+  </tuv>
+</tu>
+<tu tuid="87" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>not long before Christmas,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>poco antes de la Navidad,</seg>
+  </tuv>
+</tu>
+<tu tuid="88" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>when the shoemaker</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>cuando el zapatero</seg>
+  </tuv>
+</tu>
+<tu tuid="89" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>had finished</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>ha terminado</seg>
+  </tuv>
+</tu>
+<tu tuid="90" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>cutting out leather,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la cortadura del cuero,</seg>
+  </tuv>
+</tu>
+<tu tuid="91" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and before he went to bed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y antes de que se acostó,</seg>
+  </tuv>
+</tu>
+<tu tuid="92" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>he said</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>él le dijo</seg>
+  </tuv>
+</tu>
+<tu tuid="93" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>to his wife,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a su esposa,</seg>
+  </tuv>
+</tu>
+<tu tuid="94" datatype="Text" >
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="95" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"How would it be</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¿Qué tal</seg>
+  </tuv>
+</tu>
+<tu tuid="96" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>if we were to sit up tonight</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>si no nos acostamos esta noche</seg>
+  </tuv>
+</tu>
+<tu tuid="97" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and see who it is that does us this service?"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y vemos a la persona quien nos hace este servicio?"</seg>
+  </tuv>
+</tu>
+<tu tuid="98" datatype="Text" >
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="99" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>His wife agreed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Su esposa estaba de acuerdo,</seg>
+  </tuv>
+</tu>
+<tu tuid="100" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and set a light</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y puso una luz para</seg>
+  </tuv>
+</tu>
+<tu tuid="101" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>to burn.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>quemar.</seg>
+  </tuv>
+</tu>
+<tu tuid="102" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Then they both hid</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Luego los dos se escondieron</seg>
+  </tuv>
+</tu>
+<tu tuid="103" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>in a corner of the room,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en un rincón de la sala,</seg>
+  </tuv>
+</tu>
+<tu tuid="104" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>behind some clothes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>detrás de alguna ropa</seg>
+  </tuv>
+</tu>
+<tu tuid="105" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>that were hanging up,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que estaba colgando,</seg>
+  </tuv>
+</tu>
+<tu tuid="106" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and then they began to watch.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y empezaban a mirar.</seg>
+  </tuv>
+</tu>
+<tu tuid="107" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>As soon as it was</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Tan pronto como era</seg>
+  </tuv>
+</tu>
+<tu tuid="108" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>midnight</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la medianoche,</seg>
+  </tuv>
+</tu>
+<tu tuid="109" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>they saw come in</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>ellos vieron</seg>
+  </tuv>
+</tu>
+<tu tuid="110" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>two neatly-formed naked</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a dos perfectamente formados y desnudos</seg>
+  </tuv>
+</tu>
+<tu tuid="111" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>little men,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>hombres pequeños,</seg>
+  </tuv>
+</tu>
+<tu tuid="112" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>who seated themselves</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>quienes se sentaron</seg>
+  </tuv>
+</tu>
+<tu tuid="113" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>at the table</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a la mesa</seg>
+  </tuv>
+</tu>
+<tu tuid="114" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>of the shoemaker,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>del zapatero,</seg>
+  </tuv>
+</tu>
+<tu tuid="115" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and took up the leather</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y tomaron el cuero</seg>
+  </tuv>
+</tu>
+<tu tuid="116" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>that was already prepared,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que ya estaba preparado,</seg>
+  </tuv>
+</tu>
+<tu tuid="117" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and began to stitch,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y empezaron a coser,</seg>
+  </tuv>
+</tu>
+<tu tuid="118" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>to pierce,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>perforar,</seg>
+  </tuv>
+</tu>
+<tu tuid="119" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and to hammer</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y martillear</seg>
+  </tuv>
+</tu>
+<tu tuid="120" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>so cleverly and quickly</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>tan hábilmente y rápidamente</seg>
+  </tuv>
+</tu>
+<tu tuid="121" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>with their little fingers</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con sus dedos pequeños</seg>
+  </tuv>
+</tu>
+<tu tuid="122" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>that the shoemaker's eyes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que los ojos del zapatero</seg>
+  </tuv>
+</tu>
+<tu tuid="123" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>could scarcely follow them,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>casi no les podían seguir,</seg>
+  </tuv>
+</tu>
+<tu tuid="124" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>so full of wonder was he.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>tan lleno de maravilla que estaba.</seg>
+  </tuv>
+</tu>
+<tu tuid="125" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>And they never left off</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Y no salieron</seg>
+  </tuv>
+</tu>
+<tu tuid="126" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>until everything was finished</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>antes de que todo estuviera completo</seg>
+  </tuv>
+</tu>
+<tu tuid="127" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and was standing ready</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y listo</seg>
+  </tuv>
+</tu>
+<tu tuid="128" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>on the table,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en la mesa,</seg>
+  </tuv>
+</tu>
+<tu tuid="129" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and then they jumped up</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y luego saltaron</seg>
+  </tuv>
+</tu>
+<tu tuid="130" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and ran off.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y corrieron afuera.</seg>
+  </tuv>
+</tu>
+<tu tuid="131" datatype="Text" >
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="132" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>The next morning</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>La próxima mañana</seg>
+  </tuv>
+</tu>
+<tu tuid="133" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the wife of shoemaker</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la esposa del zapatero</seg>
+  </tuv>
+</tu>
+<tu tuid="134" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>said to her husband,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>le dijo a su esposo,</seg>
+  </tuv>
+</tu>
+<tu tuid="135" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"Those little men</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Estos hombres pequeños</seg>
+  </tuv>
+</tu>
+<tu tuid="136" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>have made so much money</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>han ganado tanto dinero</seg>
+  </tuv>
+</tu>
+<tu tuid="137" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>for us,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para nosotros,</seg>
+  </tuv>
+</tu>
+<tu tuid="138" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and we ought to show ourselves grateful.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y debemos mostrarles nuestra gratitud.</seg>
+  </tuv>
+</tu>
+<tu tuid="139" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>With all their running about,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Siguen corriendo por todos lados,</seg>
+  </tuv>
+</tu>
+<tu tuid="140" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and with no clothes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>sin ropa</seg>
+  </tuv>
+</tu>
+<tu tuid="141" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>to cover them,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para cubrirles,</seg>
+  </tuv>
+</tu>
+<tu tuid="142" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>they must be very cold.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y deben de tener frío.</seg>
+  </tuv>
+</tu>
+<tu tuid="143" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>I'll tell you what;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Te digo eso;</seg>
+  </tuv>
+</tu>
+<tu tuid="144" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>I will make clothes for them,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>les haré ropa para ellos,</seg>
+  </tuv>
+</tu>
+<tu tuid="145" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>little shirts,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>camisas pequeñas,</seg>
+  </tuv>
+</tu>
+<tu tuid="146" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>coats,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>abrigos,</seg>
+  </tuv>
+</tu>
+<tu tuid="147" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>waistcoats,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>chalecos,</seg>
+  </tuv>
+</tu>
+<tu tuid="148" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and breeches,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y unos bombachos,</seg>
+  </tuv>
+</tu>
+<tu tuid="149" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and knit each of them</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y les tejeré</seg>
+  </tuv>
+</tu>
+<tu tuid="150" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>a pair of stockings,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un par de medias,</seg>
+  </tuv>
+</tu>
+<tu tuid="151" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and you shall make each of them</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y tú les harás</seg>
+  </tuv>
+</tu>
+<tu tuid="152" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>a pair of shoes."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un par de zapatos."</seg>
+  </tuv>
+</tu>
+<tu tuid="153" datatype="Text" >
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="154" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>The husband</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>El esposo</seg>
+  </tuv>
+</tu>
+<tu tuid="155" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>consented willingly,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>consintió con gusto,</seg>
+  </tuv>
+</tu>
+<tu tuid="156" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and at night,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y por la noche,</seg>
+  </tuv>
+</tu>
+<tu tuid="157" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>when everything was finished,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>cuando todo era terminado,</seg>
+  </tuv>
+</tu>
+<tu tuid="158" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>they laid the little clothes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>ellos pusieron la ropa</seg>
+  </tuv>
+</tu>
+<tu tuid="159" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and the shoes together</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y zapatos juntos</seg>
+  </tuv>
+</tu>
+<tu tuid="160" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>on the table,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en la mesa,</seg>
+  </tuv>
+</tu>
+<tu tuid="161" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>instead of the prepared leather,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en vez del cuero preparado,</seg>
+  </tuv>
+</tu>
+<tu tuid="162" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and placed themselves</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se sentaban</seg>
+  </tuv>
+</tu>
+<tu tuid="163" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>so that they could observe</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para que podían observar cómo</seg>
+  </tuv>
+</tu>
+<tu tuid="164" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>how the little men</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los hombres pequeños</seg>
+  </tuv>
+</tu>
+<tu tuid="165" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>would behave.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>se compartirían.</seg>
+  </tuv>
+</tu>
+<tu tuid="166" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>When midnight came,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Cuando vino la medianoche,</seg>
+  </tuv>
+</tu>
+<tu tuid="167" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>they rushed in,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>ellos entraron a toda prisa,</seg>
+  </tuv>
+</tu>
+<tu tuid="168" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>ready to set to work,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>listos para trabajar,</seg>
+  </tuv>
+</tu>
+<tu tuid="169" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>but when they found,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pero cuando encontraron,</seg>
+  </tuv>
+</tu>
+<tu tuid="170" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>instead of the pieces of leather,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en vez de piezas de cuero,</seg>
+  </tuv>
+</tu>
+<tu tuid="171" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the clothes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la ropa</seg>
+  </tuv>
+</tu>
+<tu tuid="172" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and the shoes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y zapatos que</seg>
+  </tuv>
+</tu>
+<tu tuid="173" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>were put out for them,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>estuvieron allí para ellos,</seg>
+  </tuv>
+</tu>
+<tu tuid="174" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>they stood for a moment surprised,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>se quedaron sorprendidos por un momento,</seg>
+  </tuv>
+</tu>
+<tu tuid="175" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and then they expressed</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y luego expresaron</seg>
+  </tuv>
+</tu>
+<tu tuid="176" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the greatest delight.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el mayor deleite.</seg>
+  </tuv>
+</tu>
+<tu tuid="177" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>With the greatest swiftness</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Con la mayor rapidez,</seg>
+  </tuv>
+</tu>
+<tu tuid="178" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>they took up the little clothes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>ellos tomaron la ropa</seg>
+  </tuv>
+</tu>
+<tu tuid="179" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and the shoes</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y los zapatos</seg>
+  </tuv>
+</tu>
+<tu tuid="180" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and slipped them on.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y les pusieron.</seg>
+  </tuv>
+</tu>
+<tu tuid="181" datatype="Text" >
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="182" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>Then they hopped</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Luego saltaban</seg>
+  </tuv>
+</tu>
+<tu tuid="183" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and danced about</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y bailaban,</seg>
+  </tuv>
+</tu>
+<tu tuid="184" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>jumping over the chairs</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>sobre las sillas</seg>
+  </tuv>
+</tu>
+<tu tuid="185" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and tables,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y mesas,</seg>
+  </tuv>
+</tu>
+<tu tuid="186" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and at last they danced out</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y finalmente bailaron fuera</seg>
+  </tuv>
+</tu>
+<tu tuid="187" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>of the door.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>de la puerta.</seg>
+  </tuv>
+</tu>
+<tu tuid="188" datatype="Text" >
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="189" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>From that time</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Desde ese momento,</seg>
+  </tuv>
+</tu>
+<tu tuid="190" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>they were never seen again;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>nunca aparecieron otra vez;</seg>
+  </tuv>
+</tu>
+<tu tuid="191" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>but it always went well for the shoemaker</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pero el zapatero lo pasó muy bien todo</seg>
+  </tuv>
+</tu>
+<tu tuid="192" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>as long as he lived,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el resto de su vida,</seg>
+  </tuv>
+</tu>
+<tu tuid="193" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and he was never in need of money again.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y él nunca estaba en la necesidad de dinero nuevo.</seg>
+  </tuv>
+</tu>
+</body>
+</tmx>

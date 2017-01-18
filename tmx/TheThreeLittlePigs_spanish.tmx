@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.1">
+<header segtype="sentence" o-tmf="Bitext2tmx" adminlang="en" srclang="en" datatype="PlainText"  o-encoding="UTF-8">
+<meta name="title" source="The Three Little Pigs" target="Tres Cerditos">
+<meta name="language" source="English" target="Spanish">
+<meta name="level" content="2">
+<meta name="category" source="Fairy Tales" target="Cuentos de Hadas">
+<meta name="description" 
+source="The classic story of three little pigs leaving their mother in order to build a home for themselves in a dangerous world." 
+target="La clásica historia de tres cerditos que salen de su madre con el fin de construir una casa por sí mismos en un mundo peligroso.">
+</header>
+<body>
+<tu tuid="0" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Once upon a time there was</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Había una vez</seg>
+  </tuv>
+</tu>
+<tu tuid="1" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>an old Sow</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una vieja Cerda</seg>
+  </tuv>
+</tu>
+<tu tuid="2" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>with three Little Pigs,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con tres Cerditos,</seg>
+  </tuv>
+</tu>
+<tu tuid="3" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and as she had not enough to keep them,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y como no tenía con qué mantenerlos,</seg>
+  </tuv>
+</tu>
+<tu tuid="4" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="5" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>she sent them out to seek their fortune.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los mandó a que buscaran su propia suerte.</seg>
+  </tuv>
+</tu>
+<tu tuid="6" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>The first that went off met</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>El primero que partió conoció a</seg>
+  </tuv>
+</tu>
+<tu tuid="7" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>a Man with</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un Hombre con</seg>
+  </tuv>
+</tu>
+<tu tuid="8" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>a bundle of straw,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un bulto de paja,</seg>
+  </tuv>
+</tu>
+<tu tuid="9" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and said to him,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y le dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="10" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Please,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Por favor,</seg>
+  </tuv>
+</tu>
+<tu tuid="11" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Man,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Hombre,</seg>
+  </tuv>
+</tu>
+<tu tuid="12" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>give me that straw to build</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>déme esa paja para construirme</seg>
+  </tuv>
+</tu>
+<tu tuid="13" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>a house";</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una casa";</seg>
+  </tuv>
+</tu>
+<tu tuid="14" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>which</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a lo que</seg>
+  </tuv>
+</tu>
+<tu tuid="15" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>the Man did,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Hombre accedió,</seg>
+  </tuv>
+</tu>
+<tu tuid="16" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y</seg>
+  </tuv>
+</tu>
+<tu tuid="17" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>the Little Pig built</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Cerdito construyó</seg>
+  </tuv>
+</tu>
+<tu tuid="18" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>a house with it.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una casa con esta.</seg>
+  </tuv>
+</tu>
+<tu tuid="19" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Presently came along</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Un día llegó</seg>
+  </tuv>
+</tu>
+<tu tuid="20" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>a Wolf,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un Lobo,</seg>
+  </tuv>
+</tu>
+<tu tuid="21" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and knocked at</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y toco a</seg>
+  </tuv>
+</tu>
+<tu tuid="22" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the door,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la puerta,</seg>
+  </tuv>
+</tu>
+<tu tuid="23" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y dijo</seg>
+  </tuv>
+</tu>
+<tu tuid="24" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="25" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="26" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>let me come in."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>déjame entrar."</seg>
+  </tuv>
+</tu>
+<tu tuid="27" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="28" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>To which the Pig answered,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>A lo cual el Cerdito respondió,</seg>
+  </tuv>
+</tu>
+<tu tuid="29" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"No,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"No,</seg>
+  </tuv>
+</tu>
+<tu tuid="30" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>no,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>no,</seg>
+  </tuv>
+</tu>
+<tu tuid="31" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>by the hair of my chinny chin chin."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por el pelo de mi pelo peluda barbilla barbilla. "</seg>
+  </tuv>
+</tu>
+<tu tuid="32" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="33" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"Then I'll huff</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¡Entonces soplaré</seg>
+  </tuv>
+</tu>
+<tu tuid="34" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and I'll puff,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y soplaré,</seg>
+  </tuv>
+</tu>
+<tu tuid="35" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and I'll blow your house in! "</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y tu casa derribaré!"</seg>
+  </tuv>
+</tu>
+<tu tuid="36" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said the Wolf.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo el Lobo.</seg>
+  </tuv>
+</tu>
+<tu tuid="37" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>So he huffed</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Así que sopló</seg>
+  </tuv>
+</tu>
+<tu tuid="38" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and he puffed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y sopló,</seg>
+  </tuv>
+</tu>
+<tu tuid="39" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and he blew his house of straw in,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y tiró su casa de paja,</seg>
+  </tuv>
+</tu>
+<tu tuid="40" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and ate up</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se comió</seg>
+  </tuv>
+</tu>
+<tu tuid="41" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the Little Pig.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Cerdito.</seg>
+  </tuv>
+</tu>
+<tu tuid="42" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="43" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>The second Pig</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>El segundo Cerdo</seg>
+  </tuv>
+</tu>
+<tu tuid="44" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>met a Man</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>conoció aun Hombre</seg>
+  </tuv>
+</tu>
+<tu tuid="45" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>with a bundle of wood,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con un bulto de madera,</seg>
+  </tuv>
+</tu>
+<tu tuid="46" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="47" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Please,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Por favor,</seg>
+  </tuv>
+</tu>
+<tu tuid="48" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Man,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Hombre,</seg>
+  </tuv>
+</tu>
+<tu tuid="49" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>give me that wood to build</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>déme esa madera para construir</seg>
+  </tuv>
+</tu>
+<tu tuid="50" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>a house";</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una casa";</seg>
+  </tuv>
+</tu>
+<tu tuid="51" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>which the Man did,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la cual el Hombre hizo,</seg>
+  </tuv>
+</tu>
+<tu tuid="52" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y</seg>
+  </tuv>
+</tu>
+<tu tuid="53" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>the Pig built</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Cerdito construyó</seg>
+  </tuv>
+</tu>
+<tu tuid="54" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>his house of wood.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>su casa de madera.</seg>
+  </tuv>
+</tu>
+<tu tuid="55" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="56" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Then along came</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Entonces vino</seg>
+  </tuv>
+</tu>
+<tu tuid="57" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the Wolf</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Lobo</seg>
+  </tuv>
+</tu>
+<tu tuid="58" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="59" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="60" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="61" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>let me come in."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Déjame entrar "</seg>
+  </tuv>
+</tu>
+<tu tuid="62" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="63" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"No,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"No,</seg>
+  </tuv>
+</tu>
+<tu tuid="64" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>no,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>no,</seg>
+  </tuv>
+</tu>
+<tu tuid="65" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>not by the hair of my chinny chin chin."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por el pelo de mi peluda barbilla barbilla. “</seg>
+  </tuv>
+</tu>
+<tu tuid="66" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="67" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"Then I'll puff</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¡Entonces soplaré</seg>
+  </tuv>
+</tu>
+<tu tuid="68" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and I'll huff,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y soplaré</seg>
+  </tuv>
+</tu>
+<tu tuid="69" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and I'll blow your house in!</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y  su casa derribaré!</seg>
+  </tuv>
+</tu>
+<tu tuid="70" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"So he huffed</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>" Así que sopló</seg>
+  </tuv>
+</tu>
+<tu tuid="71" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and he puffed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y sopló,</seg>
+  </tuv>
+</tu>
+<tu tuid="72" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and he puffed</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y sopló</seg>
+  </tuv>
+</tu>
+<tu tuid="73" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and he huffed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y sopló,</seg>
+  </tuv>
+</tu>
+<tu tuid="74" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and at last he blew down</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y finalmente derribó</seg>
+  </tuv>
+</tu>
+<tu tuid="75" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the house of wood,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la casa de madera</seg>
+  </tuv>
+</tu>
+<tu tuid="76" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and ate up</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se comió</seg>
+  </tuv>
+</tu>
+<tu tuid="77" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the second Little Pig.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>al segundo Cerdito.</seg>
+  </tuv>
+</tu>
+<tu tuid="78" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="79" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>The third Little Pig met</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>El tercer cerdito conoció</seg>
+  </tuv>
+</tu>
+<tu tuid="80" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>a Man</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un Hombre</seg>
+  </tuv>
+</tu>
+<tu tuid="81" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>with a load of bricks,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con un montón de ladrillos,</seg>
+  </tuv>
+</tu>
+<tu tuid="82" datatype="Text" difficulty=2">
+  <tuv xml:lang="en">
+    <seg>and said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="83" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Please,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Por favor,</seg>
+  </tuv>
+</tu>
+<tu tuid="84" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Man,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Hombre,</seg>
+  </tuv>
+</tu>
+<tu tuid="85" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>give me those the bricks</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dame esos ladrillos</seg>
+  </tuv>
+</tu>
+<tu tuid="86" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>to build</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>para construir</seg>
+  </tuv>
+</tu>
+<tu tuid="87" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>a house with";</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una casa";</seg>
+  </tuv>
+</tu>
+<tu tuid="88" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>so the Man gave him</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>así que el Hombre le dio</seg>
+  </tuv>
+</tu>
+<tu tuid="89" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the bricks,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>los ladrillos,</seg>
+  </tuv>
+</tu>
+<tu tuid="90" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and he built his house with them.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se construyó su casa con ellos.</seg>
+  </tuv>
+</tu>
+<tu tuid="91" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Again</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Otra vez</seg>
+  </tuv>
+</tu>
+<tu tuid="92" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the Wolf came,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Lobo vino,</seg>
+  </tuv>
+</tu>
+<tu tuid="93" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>as he did to the other Little Pigs,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>de la misma manera que lo hizo con los otros Cerditos,</seg>
+  </tuv>
+</tu>
+<tu tuid="94" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="95" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="96" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="97" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>let me come in."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>déjame entrar. "</seg>
+  </tuv>
+</tu>
+<tu tuid="98" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="99" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"No,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"No,</seg>
+  </tuv>
+</tu>
+<tu tuid="100" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>no,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>no,</seg>
+  </tuv>
+</tu>
+<tu tuid="101" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>not by the hair of my chinny chin chin."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>por el pelo de mi peluda barbilla barbilla."</seg>
+  </tuv>
+</tu>
+<tu tuid="102" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="103" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"Then I'll huff</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¡Entonces soplaré</seg>
+  </tuv>
+</tu>
+<tu tuid="104" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and I'll puff,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y soplaré</seg>
+  </tuv>
+</tu>
+<tu tuid="105" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and I'll blow your house in.”</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y su casa derribaré. "</seg>
+  </tuv>
+</tu>
+<tu tuid="106" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Well,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Entonces,</seg>
+  </tuv>
+</tu>
+<tu tuid="107" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>he huffed</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>sopló</seg>
+  </tuv>
+</tu>
+<tu tuid="108" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and he puffed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y sopló,</seg>
+  </tuv>
+</tu>
+<tu tuid="109" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and he huffed</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y sopló</seg>
+  </tuv>
+</tu>
+<tu tuid="110" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and he puffed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y sopló;</seg>
+  </tuv>
+</tu>
+<tu tuid="111" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>but he could not get the house down.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pero no puedo derribar the casa.</seg>
+  </tuv>
+</tu>
+<tu tuid="112" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>When he found that he could not,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Cuando  vio que no podía,</seg>
+  </tuv>
+</tu>
+<tu tuid="113" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>with all his huffing and puffing,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con todo su soplar y soplar</seg>
+  </tuv>
+</tu>
+<tu tuid="114" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>blow the house of bricks down,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>derribar la casa de ladrillos</seg>
+  </tuv>
+</tu>
+<tu tuid="115" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>he said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="116" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="117" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>I know where there is</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Sé dónde hay</seg>
+  </tuv>
+</tu>
+<tu tuid="118" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>a nice field of carrots."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un bonito campo de zanahorias. "</seg>
+  </tuv>
+</tu>
+<tu tuid="119" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="120" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Where?"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Dónde?"</seg>
+  </tuv>
+</tu>
+<tu tuid="121" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said the Little Pig.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo el Cerdito.</seg>
+  </tuv>
+</tu>
+<tu tuid="122" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="123" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"Oh, at the house of Mr. Smith;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"O, a la casa de Sr. Smith;</seg>
+  </tuv>
+</tu>
+<tu tuid="124" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and if you will be ready tomorrow morning,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y si estarás listo mañana en la mañana,</seg>
+  </tuv>
+</tu>
+<tu tuid="125" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>I will call for you,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>te llamaré,</seg>
+  </tuv>
+</tu>
+<tu tuid="126" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and we will go together</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>e iremos juntos</seg>
+  </tuv>
+</tu>
+<tu tuid="127" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and get some carrots for dinner."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y conseguiremos algunas zanahorias para cenar."</seg>
+  </tuv>
+</tu>
+<tu tuid="128" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="129" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Very well,"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Muy bien,”</seg>
+  </tuv>
+</tu>
+<tu tuid="130" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo el Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="131" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"I will be ready.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Estaré listo.</seg>
+  </tuv>
+</tu>
+<tu tuid="132" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>What time do you want to go?"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¿A qué hora quieres ir?"</seg>
+  </tuv>
+</tu>
+<tu tuid="133" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="134" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"Oh, at six o'clock."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"O, a las seis en punto.”</seg>
+  </tuv>
+</tu>
+<tu tuid="135" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="136" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Well,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Bueno,</seg>
+  </tuv>
+</tu>
+<tu tuid="137" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>the Little Pig got up at five,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Cerdito se levantó a las cinco ,</seg>
+  </tuv>
+</tu>
+<tu tuid="138" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and got the carrots</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y obtuvo las zanahorias</seg>
+  </tuv>
+</tu>
+<tu tuid="139" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and was home again before six.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y regresó a casa una vez más antes de las seis.</seg>
+  </tuv>
+</tu>
+<tu tuid="140" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>When</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Cuando</seg>
+  </tuv>
+</tu>
+<tu tuid="141" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>the Wolf came he said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Lobo llegó dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="142" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="143" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>are you ready?"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¿Estás listo?"</seg>
+  </tuv>
+</tu>
+<tu tuid="144" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="145" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Ready!"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¡Listo!</seg>
+  </tuv>
+</tu>
+<tu tuid="146" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>" dijo el Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="147" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"I have been to the field of carrots</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Ya fui al campo de zanahorias</seg>
+  </tuv>
+</tu>
+<tu tuid="148" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and come back again,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y regresé otra vez,</seg>
+  </tuv>
+</tu>
+<tu tuid="149" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and got a nice full pot for dinner."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y consegui una bonita y lleno olla para la cena. "</seg>
+  </tuv>
+</tu>
+<tu tuid="150" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="151" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>the Wolf felt very angry at this,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>El Lobo se enojó mucho con esto,</seg>
+  </tuv>
+</tu>
+<tu tuid="152" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>but thought that he would get the Little Pig somehow;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pero pensó que atraparía el pequeño Cerdito de alguna forma;</seg>
+  </tuv>
+</tu>
+<tu tuid="153" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>so he said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>así que dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="154" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>“Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="155" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>I know where there is</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Sé dónde hay</seg>
+  </tuv>
+</tu>
+<tu tuid="156" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>a nice apple tree."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>un bonito árbol de manzanas. "</seg>
+  </tuv>
+</tu>
+<tu tuid="157" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="158" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Where?"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¿Dónde?"</seg>
+  </tuv>
+</tu>
+<tu tuid="159" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said Little Pig.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo el Cerdito.</seg>
+  </tuv>
+</tu>
+<tu tuid="160" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="161" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>"Down at Merry-garden,"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Por el jardín feliz,"</seg>
+  </tuv>
+</tu>
+<tu tuid="162" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>replied</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>respondió</seg>
+  </tuv>
+</tu>
+<tu tuid="163" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the Wolf;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Lobo;</seg>
+  </tuv>
+</tu>
+<tu tuid="164" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"and if you will not deceive me</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"y si no me engañas,</seg>
+  </tuv>
+</tu>
+<tu tuid="165" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>I will come for you,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>vendré por ti</seg>
+  </tuv>
+</tu>
+<tu tuid="166" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>at five in the morning tomorrow,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>a las cinco de la mañana,</seg>
+  </tuv>
+</tu>
+<tu tuid="167" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and we will go together</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>e iremos juntos</seg>
+  </tuv>
+</tu>
+<tu tuid="168" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and get some apples."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y obtendremos algunas manzanas. "</seg>
+  </tuv>
+</tu>
+<tu tuid="169" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="170" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>Well,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Pues,</seg>
+  </tuv>
+</tu>
+<tu tuid="171" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>the next morning</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la siguiente mañana</seg>
+  </tuv>
+</tu>
+<tu tuid="172" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>the Little Pig woke at four,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Cerdito despertó a las cuatro,</seg>
+  </tuv>
+</tu>
+<tu tuid="173" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and bustled up,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se apresuró,</seg>
+  </tuv>
+</tu>
+<tu tuid="174" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and went off for the apples,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se fue por las manzanas,</seg>
+  </tuv>
+</tu>
+<tu tuid="175" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>hoping to get back before the Wolf came;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>esperando llegar de regreso antes que el Lobo volviera;</seg>
+  </tuv>
+</tu>
+<tu tuid="176" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>but he had farther to go,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>pero tenía que ir más lejos,</seg>
+  </tuv>
+</tu>
+<tu tuid="177" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and had to climb the tree,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y tenía que escalar el árbol,</seg>
+  </tuv>
+</tu>
+<tu tuid="178" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>so that just as he was coming down from it,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>así que cuando estaba bajando del mismo,</seg>
+  </tuv>
+</tu>
+<tu tuid="179" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>he saw the Wolf coming,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>vio al Lobo que venía,</seg>
+  </tuv>
+</tu>
+<tu tuid="180" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>which,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>lo cual,</seg>
+  </tuv>
+</tu>
+<tu tuid="181" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>as you may suppose,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>como puedes suponer,</seg>
+  </tuv>
+</tu>
+<tu tuid="182" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>frightened him very much.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>lo asustó muchísimo.</seg>
+  </tuv>
+</tu>
+<tu tuid="183" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>The Wolf came up and said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>El Lobo vino y dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="184" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>“Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="185" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>what!?</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¿Qué!?</seg>
+  </tuv>
+</tu>
+<tu tuid="186" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>Are you here before me?</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¿Llegaste aquí antes que yo?</seg>
+  </tuv>
+</tu>
+<tu tuid="187" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Are they nice apples?"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¿Son ricas manzanas?"</seg>
+  </tuv>
+</tu>
+<tu tuid="188" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="189" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Yes, very,"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Sí, mucho,"</seg>
+  </tuv>
+</tu>
+<tu tuid="190" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said the Little Pig;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo el Cerdito;</seg>
+  </tuv>
+</tu>
+<tu tuid="191" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>"I will throw you down one."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"voy a tirarte una para abajo."</seg>
+  </tuv>
+</tu>
+<tu tuid="192" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>"And he threw it so far that,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Y la tiró tan lejos,</seg>
+  </tuv>
+</tu>
+<tu tuid="193" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>while the Wolf was gone to pick it up,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>mientras el Lobo se había ido para recogerla,</seg>
+  </tuv>
+</tu>
+<tu tuid="194" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>the Little Pig jumped down</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Cerdito brincó hacia abajo</seg>
+  </tuv>
+</tu>
+<tu tuid="195" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and ran home.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y corrió a casa.</seg>
+  </tuv>
+</tu>
+<tu tuid="196" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="197" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>The next morning</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>La siguiente mañana</seg>
+  </tuv>
+</tu>
+<tu tuid="198" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>the Wolf came again,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>el Lobo vino otra vez,</seg>
+  </tuv>
+</tu>
+<tu tuid="199" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and said to the Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y dijo al Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="200" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="201" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>there is a fair </seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>hay una feria </seg>
+  </tuv>
+</tu>
+<tu tuid="202" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>in the Town this afternoon:</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en el Pueblo esta tarde:</seg>
+  </tuv>
+</tu>
+<tu tuid="203" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>will you go?"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¿vas a ir?"</seg>
+  </tuv>
+</tu>
+<tu tuid="204" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="205" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Oh, yes,"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"O, sí,"</seg>
+  </tuv>
+</tu>
+<tu tuid="206" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said the Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo el Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="207" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>"I will go;</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"Voy a ir;</seg>
+  </tuv>
+</tu>
+<tu tuid="208" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>what time shall you be ready?"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¿a qué horas estarás listo?"</seg>
+  </tuv>
+</tu>
+<tu tuid="209" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="210" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"At three,"</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"A las tres,"</seg>
+  </tuv>
+</tu>
+<tu tuid="211" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>said the Wolf.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>dijo el Lobo.</seg>
+  </tuv>
+</tu>
+<tu tuid="212" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="213" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>So the Little Pig went off before the time,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Entonces el Cerdito se fue antes de la hora,</seg>
+  </tuv>
+</tu>
+<tu tuid="214" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>as usual,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>como de costumbre,</seg>
+  </tuv>
+</tu>
+<tu tuid="215" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and got to the fair,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y llegó a la feria,</seg>
+  </tuv>
+</tu>
+<tu tuid="216" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and bought a pot,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y compró una olla,</seg>
+  </tuv>
+</tu>
+<tu tuid="217" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and was on his way home with it</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y estaba en su camino a casa con la misma</seg>
+  </tuv>
+</tu>
+<tu tuid="218" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>when he saw the Wolf coming.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>cuando vió el Lobo viniendo.</seg>
+  </tuv>
+</tu>
+<tu tuid="219" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>Then he could not tell what to do.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Entonces no sabía qué hacer.</seg>
+  </tuv>
+</tu>
+<tu tuid="220" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>So he got into the pot to hide,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Así que se metió en la olla para esconderse,</seg>
+  </tuv>
+</tu>
+<tu tuid="221" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and in doing so turned it round,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y e hacerlo está se cayó,</seg>
+  </tuv>
+</tu>
+<tu tuid="222" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and it began to roll,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y comenzó a rodar,</seg>
+  </tuv>
+</tu>
+<tu tuid="223" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and rolled down the hill</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y rodar hacia abajo  de la colina</seg>
+  </tuv>
+</tu>
+<tu tuid="224" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>with the Little Pig inside it,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>con el Cerdito adentro,</seg>
+  </tuv>
+</tu>
+<tu tuid="225" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>which frightened the Wolf so much</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>lo cual asustó el Lobo tanto</seg>
+  </tuv>
+</tu>
+<tu tuid="226" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>that he ran home</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>que corrió a casa</seg>
+  </tuv>
+</tu>
+<tu tuid="227" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>without going to the fair.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>sin ir  a la feria.</seg>
+  </tuv>
+</tu>
+<tu tuid="228" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="229" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>He went to the house of the Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Fue a la casa del Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="230" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and told him how frightened he had been by</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y le contó lo mucho que se había asustado por</seg>
+  </tuv>
+</tu>
+<tu tuid="231" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>a great round thing which came down the hill past him.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>una gran cosa redonda que bajaba la colina delante de él.</seg>
+  </tuv>
+</tu>
+<tu tuid="232" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="233" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>Then the Little Pig said,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Entonces el Cerdito dijo,</seg>
+  </tuv>
+</tu>
+<tu tuid="234" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>"Hah!</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>"¡Ja!</seg>
+  </tuv>
+</tu>
+<tu tuid="235" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>I frightened you,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>¿Te asusté,</seg>
+  </tuv>
+</tu>
+<tu tuid="236" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>did I?</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>acaso no?</seg>
+  </tuv>
+</tu>
+<tu tuid="237" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>I had been to the fair</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Ya había ido a la feria</seg>
+  </tuv>
+</tu>
+<tu tuid="238" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>and bought a pot,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y compré una olla,</seg>
+  </tuv>
+</tu>
+<tu tuid="239" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and when I saw you I got into it,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y cuando te vi, me metí en ella,</seg>
+  </tuv>
+</tu>
+<tu tuid="240" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and rolled down the hill."</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y rodé por la colina."</seg>
+  </tuv>
+</tu>
+<tu tuid="241" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="242" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>Then the Wolf was very angry indeed,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Entonces el Lobo se enojó bastante,</seg>
+  </tuv>
+</tu>
+<tu tuid="243" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and declared he would eat up the Little Pig,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y declaró que se comería al Cerdito,</seg>
+  </tuv>
+</tu>
+<tu tuid="244" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>and that he would get down the chimney after him.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y que bajaría por la chimenea persiguiéndolo.</seg>
+  </tuv>
+</tu>
+<tu tuid="245" datatype="Text" format="newline">
+  <tuv xml:lang="en">
+    <seg>\n</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>\n</seg>
+  </tuv>
+</tu>
+<tu tuid="246" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>When the Little Pig saw what he was about to do,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Cuando el Cerdito vio lo que iba a hacer,</seg>
+  </tuv>
+</tu>
+<tu tuid="247" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>he hung a pot full of water</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>colgó una olla llena de agua</seg>
+  </tuv>
+</tu>
+<tu tuid="248" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>in the fireplace,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>en la chimenea,</seg>
+  </tuv>
+</tu>
+<tu tuid="249" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and made up a blazing fire,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>e hizo un ardiente fuego,</seg>
+  </tuv>
+</tu>
+<tu tuid="250" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>and,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y,</seg>
+  </tuv>
+</tu>
+<tu tuid="251" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>just as the Wolf was coming down</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>justo cuando el Lobo venía hacia abajo de</seg>
+  </tuv>
+</tu>
+<tu tuid="252" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>the chimney,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>la chimenea,</seg>
+  </tuv>
+</tu>
+<tu tuid="253" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>took off the cover of the pot,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>quitó la tapa de la olla,</seg>
+  </tuv>
+</tu>
+<tu tuid="254" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and in fell the Wolf.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y adentro cayó el Lobo.</seg>
+  </tuv>
+</tu>
+<tu tuid="255" datatype="Text" difficulty="1">
+  <tuv xml:lang="en">
+    <seg>And the Little Pig</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>Y el Cerdito</seg>
+  </tuv>
+</tu>
+<tu tuid="256" datatype="Text" difficulty="3">
+  <tuv xml:lang="en">
+    <seg>put the cover on the pot again</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>puso la tapa en la olla otra vez</seg>
+  </tuv>
+</tu>
+<tu tuid="257" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>in an instant,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>rápidamente,</seg>
+  </tuv>
+</tu>
+<tu tuid="258" datatype="Text" difficulty="5">
+  <tuv xml:lang="en">
+    <seg>boiled up the Wolf,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>e hirvió el Lobo,</seg>
+  </tuv>
+</tu>
+<tu tuid="259" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and ate him for supper</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y se lo comió para la cena con</seg>
+  </tuv>
+</tu>
+<tu tuid="260" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>with the carrots</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>las zanahorias</seg>
+  </tuv>
+</tu>
+<tu tuid="261" datatype="Text" difficulty="2">
+  <tuv xml:lang="en">
+    <seg>and the apples,</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y las manzanas,</seg>
+  </tuv>
+</tu>
+<tu tuid="262" datatype="Text" difficulty="4">
+  <tuv xml:lang="en">
+    <seg>and lived happy ever after.</seg>
+  </tuv>
+  <tuv xml:lang="es">
+    <seg>y vivió feliz para siempre.</seg>
+  </tuv>
+</tu>
+</body>
+</tmx>
